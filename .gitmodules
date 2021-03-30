@@ -1,0 +1,3 @@
+[submodule "google_homepage"]
+	path = google_homepage
+	url = https://github.com/garou357/google_homepage.git
